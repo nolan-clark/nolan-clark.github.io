@@ -1,5 +1,11 @@
 # Data Scientist
 
+- 🎓 M.S. Data Science
+- 📊 Visualizations
+- 🤖 Machine Learning
+- 🧠 Large Language Models
+
+
 ### Education
 Data Science, M.S.
 
