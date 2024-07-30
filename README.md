@@ -10,7 +10,7 @@
 
 ## Tableau Dashboard Development
  <a href="https://public.tableau.com/app/profile/nolan.clark/vizzes">Public Tableau</a>
-
+![alt text](assets/dashboard.png)
 
 ## 🏅 Microcredentials and Certifications
 <div id="badges">
