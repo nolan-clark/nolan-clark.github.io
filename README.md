@@ -5,12 +5,13 @@
 - 🤖 Machine Learning
 - 🧠 Large Language Models
 
-## Statistical Analysis
-<a href="https://rpubs.com/Nolan_Clark">Rpubs</a>
-
 ## Tableau Dashboard Development
  <a href="https://public.tableau.com/app/profile/nolan.clark/vizzes">Public Tableau</a>
 ![alt text](assets/dashboard.png)
+
+## Statistical Analysis
+<a href="https://rpubs.com/Nolan_Clark">Rpubs</a>
+![alt text](assets/heatmap.png)
 
 ## 🏅 Microcredentials and Certifications
 <div id="badges">
