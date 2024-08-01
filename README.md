@@ -1,10 +1,16 @@
-# Data Scientist
+# Portfolio
+Welcome to my portfolio! 
+
+## About Me
 
 - 🎓 M.S. Data Science
 - 📊 Visualizations
 - 🤖 Machine Learning
 - 🧠 Large Language Models
 
+Connect with me on LinkedIn!
+
+<a href="https://www.linkedin.com/in/nolan-clark-a64bb11b3" /> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 ## 🏅 Microcredentials and Certifications
 <div id="badges">
@@ -65,6 +71,12 @@ therapy data.</p>
 for predictive and prescriptive analysis. Modeling included stepwise linear regression and supervised machine
 learning lasso regression.</p>
     
+    <h3>USA Airport Multi-Dashboard</h3>
+   <a href="https://public.tableau.com/app/profile/nolan.clark/viz/Airports_Assignment/Dashboard1"/>
+    <img src="assets/AirportDash.png"/>
+     <p>Created three interactive dashboards of all United States airports to provide users with a tool for descriptive
+analysis. The project can also be used as prescriptive analytic tool for choosing potential flight destinations.</p>
+
    <h3>Washington, D.C. Airbnb Interactive Report</h3>
   <a href="https://rpubs.com/Nolan_Clark/885963"/>
     <img src="assets/heatmap.png"/>
@@ -77,6 +89,26 @@ a dot density map.</p>
     <img src="assets/Police.png"/>
      <p>Conducted descriptive analysis on the Seattle Police Department Call Data (4.84 million rows) to assess the
 historical efficiency at police call response.</p>
+
+     
+   <h3>Capital Bikeshare Dashboard</h3>
+   <a href="https://public.tableau.com/app/profile/nolan.clark/viz/BikeSharingVisualization_16407343099230/Dashboard1"/>
+    <img src="assets/BikeDash.png"/>
+     <p>Created dashboard of descriptive analytics for the activity of Capital Bikeshare users in Washington, D.C. from
+2011-2012. Intent was to find notable relationships between weather conditions and consumer engagement.</p>
+     
+   <h3>Olympic Medal Dashboard</h3>
+   <a href="https://public.tableau.com/app/profile/nolan.clark/viz/120yearsUSAOlympicHistory/Dashboard1"/>
+    <img src="assets/OlypmicsDash.png"/>
+     <p>Created an interactive dashboard breaking down the success the United States has seen in the Olympics from
+Athens 1896- Rio 2016. Intended to gain insight on the events and athletes responsible for the USA dominance in
+the Olympics.</p>
+     
+   <h3>Coffee Store Dashboard</h3>
+   <a href="https://public.tableau.com/app/profile/nolan.clark/viz/CoffeeStoreTabeauVisualizationsAssignment1nolanclark/Dashboard2"/>
+    <img src="assets/CoffeeDash.png"/>
+     <p>Created an interactive dashboard from a mock coffee shop dataset to find insights on profits vs. losses for 2010-
+2011.</p>
 
 </div>
 
