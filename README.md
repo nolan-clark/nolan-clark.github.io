@@ -8,6 +8,7 @@ Welcome to my portfolio!
 - 🤖 Machine Learning
 - 🧠 Large Language Models
 
+### Contact
 Connect with me on LinkedIn!
 
 <a href="https://www.linkedin.com/in/nolan-clark-a64bb11b3" /> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -34,25 +35,19 @@ Connect with me on LinkedIn!
 
 </div>
 
-### Tableau Dashboard Development
- <a href="https://public.tableau.com/app/profile/nolan.clark/vizzes">Public Tableau</a>
- 
-### Statistical Analysis
-<a href="https://rpubs.com/Nolan_Clark">Rpubs</a>
-
 ## Projects
 <div id="badges">
-  <h3>Automated Writing Evaluation System </h3>
+  <h3>Automated Writing Evaluation System</h3>
   <a href="https://github.com/nolan-clark/Automated-Essay-Scoring-2.0"/>
     <img src="assets/AES.png"/>
  <p>Developed a deep learning solution for automatically grading essays by fine-tuning three pre-trained LLMs (Longformer, DeBERTa, and XLNet). Optimized performance through ensemble averaging, Optuna hyperparameter tuning, and GPU utilization. This project aims to streamline the grading process by providing consistent and accurate scores.</p>
     
-   <h3>Capstone</h3>
+   <h3>Capstone: LLM Text Detector</h3>
   <a href="https://github.com/nolan-clark/Capstone"/>
     <img src="assets/Capstone.png"/>
  <p>Built an end-to-end pipeline for textual feature extraction of transformer-based embeddings, TF-IDF, and LIWC-22 in python. Investigated predictive strength of text-based features for detecting LLM-generated text compared to embeddings. Applied SHAP explanations to examine feature importance of model authorship classifications. Produced highly accurate and interpretable classifier for distinguishing 6th-12th grade student-written essays from LLM-generated text.</p>
-   
-    <h3>CoC</h3>
+    
+   <h3>Data Pipeline: Clash of Clans</h3>
   <a href="https://github.com/nolan-clark/Clash-of-Clans-CWL-ML"/>
     <img src="assets/clash.png"/>
   <p>Engineered a data pipeline from Supercell’s Clash of Clans NoSQL database using an API Key to generate 1 million rows of player clan performance data. The data was used to identify key performance indicators (KPIs) and develop machine learning models. Pipeline updates monthly to improve model accuracy and predictive strength.</p>
@@ -71,7 +66,7 @@ therapy data.</p>
 for predictive and prescriptive analysis. Modeling included stepwise linear regression and supervised machine
 learning lasso regression.</p>
     
-    <h3>USA Airport Multi-Dashboard</h3>
+  <h3>USA Airport Multi-Dashboard</h3>
    <a href="https://public.tableau.com/app/profile/nolan.clark/viz/Airports_Assignment/Dashboard1"/>
     <img src="assets/AirportDash.png"/>
      <p>Created three interactive dashboards of all United States airports to provide users with a tool for descriptive
@@ -89,7 +84,6 @@ a dot density map.</p>
     <img src="assets/Police.png"/>
      <p>Conducted descriptive analysis on the Seattle Police Department Call Data (4.84 million rows) to assess the
 historical efficiency at police call response.</p>
-
      
    <h3>Capital Bikeshare Dashboard</h3>
    <a href="https://public.tableau.com/app/profile/nolan.clark/viz/BikeSharingVisualization_16407343099230/Dashboard1"/>
@@ -103,12 +97,6 @@ historical efficiency at police call response.</p>
      <p>Created an interactive dashboard breaking down the success the United States has seen in the Olympics from
 Athens 1896- Rio 2016. Intended to gain insight on the events and athletes responsible for the USA dominance in
 the Olympics.</p>
-     
-   <h3>Coffee Store Dashboard</h3>
-   <a href="https://public.tableau.com/app/profile/nolan.clark/viz/CoffeeStoreTabeauVisualizationsAssignment1nolanclark/Dashboard2"/>
-    <img src="assets/CoffeeDash.png"/>
-     <p>Created an interactive dashboard from a mock coffee shop dataset to find insights on profits vs. losses for 2010-
-2011.</p>
 
 </div>
 
