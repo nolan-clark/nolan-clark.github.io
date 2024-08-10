@@ -11,7 +11,7 @@ This is a collection of projects I have completed throughout my academic journey
 🎓 My background in machine learning, natural language processing (NLP), and dashboard development was developed while earning my M.S. in Data Science. My continued journey into data science is sparked by an interest in Large Language Models (LLM) and the possibilities of Artificial Intelligence (AI) applications. 
 
 
-🧠 Prior to my transition into data science, I held a career as a neurofeedback (NFB) clinician where I administered NFB therapy to alleviate symptoms of concussions, ADHD, anxiety, depression, and PTSD. This experience provided me a unique familiarity with both nueral and muscular biometric data of electroencephalogram (EEG) and electromyography (EMG). 
+🧠 Prior to my transition into data science, I held a career as a neurofeedback (NFB) clinician where I administered NFB therapy to alleviate symptoms of concussions, ADHD, anxiety, depression, and PTSD. This experience provided me a unique familiarity with both neural and muscular biometric data of electroencephalogram (EEG) and electromyography (EMG). 
 
 
 ### Contact
