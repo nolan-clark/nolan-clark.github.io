@@ -11,16 +11,16 @@ This is a collection of projects I have completed throughout my academic journey
 🎓 My background in machine learning, natural language processing (NLP), and dashboard development was developed while earning my M.S. in Data Science. My continued journey into data science is sparked by an interest in Large Language Models (LLM) and the possibilities of Artificial Intelligence (AI) applications. 
 
 
-🧠 Prior to my transition into data science, I held a career as a neurofeedback (NFB) clinician where I administered NFB therapy to alleviate symptoms of concussions, ADHD, anxiety, depression, and PTSD. This experience provided me a unique familiarity with both neural and muscular biometric data of electroencephalogram (EEG) and electromyography (EMG). 
+🧠 Prior to my transition into data science, I held a career as a neurofeedback (NFB) clinician where I provided NFB therapy to alleviate symptoms of concussions, ADHD, anxiety, depression, and PTSD. This experience has given me a unique familiarity with both neural and muscular biometric data of electroencephalogram (EEG) and electromyography (EMG). 
 
 
 ### Contact
 For business inquiries, collaborations, or if you would like to stay privy to future project updates, connect with me on LinkedIn!
 
-<div id="socials">
-  <a href="https://www.linkedin.com/in/nolan-clark-a64bb11b3" /> 
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</div>
+
+<a href="https://www.linkedin.com/in/nolan-clark-a64bb11b3"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 
 ## 🏅 Microcredentials and Certifications
