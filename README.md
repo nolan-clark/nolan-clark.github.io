@@ -22,32 +22,7 @@ For business inquiries, collaborations, or if you would like to stay privy to fu
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<head>
-    <meta property="og:title" content="Nolan Clark's Portfolio"/>
-    <meta property="og:image" content="/assets/headshot.png"/>
-</head>
 
-## 🏅 Microcredentials and Certifications
-<div id="badges">
-  <a href="https://www.credly.com/badges/23ffda28-43da-46e1-805a-45921bc853ad/public_url"/>
-    <img src="assets/AWS.png" width="100" height="100"/>
-
-  <a href="https://www.credly.com/badges/e756d768-2b66-4798-bdff-56fb3adf9b97/public_url"/>
-    <img src="assets/SAS_BI.png" width="100" height="100"/>
-
-  <a href="https://api.badgr.io/public/assertions/cBcL_EjlS8ejNJHTCBrbKA"/>
-    <img src="assets/python_viz.png" width="100" height="100"/>
-
-  <a href="https://api.badgr.io/public/assertions/Mo60voI8QpaLSmW4RLp48w"/>
-    <img src="assets/R_viz.png" width="100" height="100"/>
-
-  <a href="https://api.badgr.io/public/assertions/0DgTfgsDQp-_PwTj2dnNGA"/>
-    <img src="assets/Tableau_viz.png" width="100" height="100"/>
-
-  <a href="https://api.badgr.io/public/assertions/suGn5YLtSg6u0uTlhEj9ng"/>
-    <img src="assets/SQL.png" width="100" height="100"/>
-
-</div>
 
 ## Projects
 <div id="badges">
@@ -114,3 +89,25 @@ the Olympics.</p>
 
 </div>
 
+
+## 🏅 Microcredentials and Certifications
+<div id="badges">
+  <a href="https://www.credly.com/badges/23ffda28-43da-46e1-805a-45921bc853ad/public_url"/>
+    <img src="assets/AWS.png" width="100" height="100"/>
+
+  <a href="https://www.credly.com/badges/e756d768-2b66-4798-bdff-56fb3adf9b97/public_url"/>
+    <img src="assets/SAS_BI.png" width="100" height="100"/>
+
+  <a href="https://api.badgr.io/public/assertions/cBcL_EjlS8ejNJHTCBrbKA"/>
+    <img src="assets/python_viz.png" width="100" height="100"/>
+
+  <a href="https://api.badgr.io/public/assertions/Mo60voI8QpaLSmW4RLp48w"/>
+    <img src="assets/R_viz.png" width="100" height="100"/>
+
+  <a href="https://api.badgr.io/public/assertions/0DgTfgsDQp-_PwTj2dnNGA"/>
+    <img src="assets/Tableau_viz.png" width="100" height="100"/>
+
+  <a href="https://api.badgr.io/public/assertions/suGn5YLtSg6u0uTlhEj9ng"/>
+    <img src="assets/SQL.png" width="100" height="100"/>
+
+</div>
