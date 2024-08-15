@@ -1,3 +1,6 @@
+<meta property="og:image" content="headshot.png" />
+
+
 # Portfolio
 Welcome to my portfolio! 
 
