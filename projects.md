@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ## Projects
 <div id="badges">
   <h3>Automated Writing Evaluation System</h3>
