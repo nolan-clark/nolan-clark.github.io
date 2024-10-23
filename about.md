@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 # About Me
 
@@ -12,9 +15,11 @@
 
 ## 🏅 Microcredentials and Certifications
 <div id="badges">
+  <a href="https://www.credly.com/badges/35777a96-428a-402a-b597-024697145386/public_url"/>
+    <img src="assets/AWS_AI.png" width="100" height="100"/>
+    
   <a href="https://www.credly.com/badges/23ffda28-43da-46e1-805a-45921bc853ad/public_url"/>
     <img src="assets/AWS.png" width="100" height="100"/>
-
   <a href="https://www.credly.com/badges/e756d768-2b66-4798-bdff-56fb3adf9b97/public_url"/>
     <img src="assets/SAS_BI.png" width="100" height="100"/>
 
