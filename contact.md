@@ -1,4 +1,4 @@
-### Contact
+## Contact
 For business inquiries, collaborations, or if you would like to stay privy to future project updates, connect with me on LinkedIn!
 
 
