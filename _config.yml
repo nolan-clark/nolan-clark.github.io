@@ -10,12 +10,12 @@ plugins:
 
 navigation:
   -name: Readme
-   link: ./index.html
+   link: /index.html
   -name: About
-   link: ./about.html
+   link: /about.html
   -name: Projects
-   link: ./projects.html
+   link: /projects.html
   -name: Contact
-   link: ./contact.md
+   link: /contact.md
 
 #remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
