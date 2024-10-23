@@ -39,13 +39,12 @@
         </ul>
         {% endif %}
         
-        {% if site.navigation %}
         <ul class="sidebar">
-          {%- for item in site.navigation %}
-          <li><a href="{{ item.link }}">{{ item.name }}</a></li>
-          {%- endfor %}
+          <li><a href="{{ index.html }}">{{ Home }}</a></li>
+          <li><a href="{{ about.html }}">{{ About Me }}</a></li>
+          <li><a href="{{ projects.html }}">{{ Projects }}</a></li>
+          <li><a href="{{ contact.html }}">{{ Contact }}</a></li>
         </ul>
-        {% endif %}
       </header>
       <section>
 
