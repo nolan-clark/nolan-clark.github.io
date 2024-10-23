@@ -1,4 +1,12 @@
-## Projects
+---
+layout: default
+---
+
+# Portfolio
+
+This is a collection of projects I have completed throughout my academic journey, freelance work, or simply personal development in my free time. If you enjoyed exploring a specific project or know someone who would find it interesting, feel free to leave a ⭐️ or share it.
+
+
 <div id="badges">
   <h3>Automated Writing Evaluation System</h3>
   <a href="https://github.com/nolan-clark/Automated-Essay-Scoring-2.0"/>
